@@ -32,7 +32,29 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/inde
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="",CCTV-17农业农村 (1080p)
 http://183.196.25.171:808/hls/93/index.m3u8
+
+
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="",山东卫视(1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="湖南.cn" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="",湖南卫视(1080p)
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://cfss.cc/api/ysp/bjws.m3u8
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://cfss.cc/api/ysp/dfws.m3u8
+#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png",东方影视
+http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png",都市剧场
+
+#EXTINF:-1 group-title="其他" tvg-logo="https://live.fanmingming.com/tv/SITV法治天地.png",法治天地
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+
+#EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
