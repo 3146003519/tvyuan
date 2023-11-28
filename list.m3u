@@ -32,7 +32,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/inde
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="",CCTV-17农业农村 (1080p)
 http://183.196.25.171:808/hls/93/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://live.fanmingming.com/tv/山东.png" group-title="",山东卫视(1080p)
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="",山东卫视(1080p)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 tvg-id="湖南.cn" tvg-logo="https://live.fanmingming.com/tv/湖南.png" group-title="",湖南卫视(1080p)
+#EXTINF:-1 tvg-id="湖南.cn" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="",湖南卫视(1080p)
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
