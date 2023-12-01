@@ -1,5 +1,4 @@
-
-CCTV-1 (1080p)
+CCTV-1 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
       http://cfss.cc/api/ysp/cctv1.m3u8
       http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
@@ -7,35 +6,35 @@ CCTV-1 (1080p)
       http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
       http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 
-CCTV-2 (1080p)
+CCTV-2 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
       http://cfss.cc/api/ysp/cctv2.m3u8
       http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
       http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
       http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
 
-CCTV-3综艺 (1080p)
+CCTV-3综艺 (高清)
       http://183.196.25.171:808/hls/75/index.m3u8
       http://cfss.cc/api/ysp/cctv3.m3u8
       http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
       http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
       http://61.169.37.218:9901/tsfile/live/0003_1.m3u8?key=txiptv
 
-CCTV-4 (1080p)
+CCTV-4 (高清)
       http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 
 
 CCTV-4K超高清
       https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
-CCTV-5 (1080p)
+CCTV-5 (高清)
       http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 
 
-CCTV-5+ (1080p)
+CCTV-5+ (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 
-CCTV-6 (1080p)
+CCTV-6 (高清)
       http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
       http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008886/1.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
       http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=
@@ -44,34 +43,34 @@ CCTV-6 (1080p)
       http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 
-CCTV-7 (1080p)
+CCTV-7 (高清)
       http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
 
-CCTV-8 (1080p)
+CCTV-8 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
       http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000008888/1.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
       https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
 
-CCTV-9 (1080p)
+CCTV-9 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 
-CCTV-10 (1080p)
+CCTV-10 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 
-CCTV-11戏曲 (1080p)
+CCTV-11戏曲 (高清)
       http://183.196.25.171:808/hls/11/index.m3u8
 
-CCTV-12社会与法制 (1080p)
+CCTV-12社会与法制 (高清)
       http://183.196.25.171:808/hls/12/index.m3u8
 
-CCTV-13 (1080p)
+CCTV-13 (高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 
-CCTV-14 (1080p)
+CCTV-14 (高清)
       http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
-CCTV-15 (1080p)
+CCTV-15 (高清)
       http://cfss.cc/api/ysp/cctv15.m3u8
       http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3
       http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
@@ -81,13 +80,13 @@ CCTV-15 (1080p)
 CCTV-16奥林匹克
       https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 
-CCTV-17农业农村 (1080p)
+CCTV-17农业农村 (高清)
       http://183.196.25.171:808/hls/93/index.m3u8
 
-山东卫视(1080p)
+山东卫视(高清)
       http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 
-湖南卫视(1080p)
+湖南卫视(高清)
       http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 
 安徽卫视
@@ -95,6 +94,7 @@ CCTV-17农业农村 (1080p)
 
 北京卫视
       http://cfss.cc/api/ysp/bjws.m3u8
+
 兵团卫视
 
 
@@ -106,6 +106,7 @@ CCTV-17农业农村 (1080p)
 
 东南卫视
       https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
+
 都市剧场
 
 法治天地
