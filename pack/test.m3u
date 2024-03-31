@@ -651,3 +651,332 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="IPV6",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 
+
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWORLD.png" group-title="全球",NHKWORLD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="全球",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="全球",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="Thai PBS 3" tvg-name="Thai PBS 3" tvg-logo="https://live.fanmingming.com/tv/Thai PBS 3.png" group-title="全球",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://live.fanmingming.com/tv/Love Nature 4K.png" group-title="全球",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/FASHIONTV.png" group-title="全球",FASHIONTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 tvg-id="FASHIONTV 4K" tvg-name="FASHIONTV 4K" tvg-logo="https://live.fanmingming.com/tv/FASHIONTV 4K.png" group-title="全球",FASHIONTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="金砖电视" tvg-name="金砖电视" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="全球",金砖电视
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="全球",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="全球",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="日·QVC" tvg-name="日·QVC" tvg-logo="https://live.fanmingming.com/tv/日·QVC.png" group-title="全球",日·QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-id="韩·BBS佛教" tvg-name="韩·BBS佛教" tvg-logo="https://live.fanmingming.com/tv/韩·BBS佛教.png" group-title="全球",韩·BBS佛教
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+#EXTINF:-1 tvg-id="韩·EBS-1" tvg-name="韩·EBS-1" tvg-logo="https://live.fanmingming.com/tv/韩·EBS-1.png" group-title="全球",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-id="韩·EBS-1" tvg-name="韩·EBS-1" tvg-logo="https://live.fanmingming.com/tv/韩·EBS-1.png" group-title="全球",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="韩·EBS-1" tvg-name="韩·EBS-1" tvg-logo="https://live.fanmingming.com/tv/韩·EBS-1.png" group-title="全球",韩·EBS-1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="韩·EBS-2" tvg-name="韩·EBS-2" tvg-logo="https://live.fanmingming.com/tv/韩·EBS-2.png" group-title="全球",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="韩·EBS-2" tvg-name="韩·EBS-2" tvg-logo="https://live.fanmingming.com/tv/韩·EBS-2.png" group-title="全球",韩·EBS-2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-id="韩·EBS少儿" tvg-name="韩·EBS少儿" tvg-logo="https://live.fanmingming.com/tv/韩·EBS少儿.png" group-title="全球",韩·EBS少儿
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-id="韩·KBC" tvg-name="韩·KBC" tvg-logo="https://live.fanmingming.com/tv/韩·KBC.png" group-title="全球",韩·KBC
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-id="韩·SBS" tvg-name="韩·SBS" tvg-logo="https://live.fanmingming.com/tv/韩·SBS.png" group-title="全球",韩·SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="韩·阿里郎" tvg-name="韩·阿里郎" tvg-logo="https://live.fanmingming.com/tv/韩·阿里郎.png" group-title="全球",韩·阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="韩·阿里郎WORLD" tvg-name="韩·阿里郎WORLD" tvg-logo="https://live.fanmingming.com/tv/韩·阿里郎WORLD.png" group-title="全球",韩·阿里郎WORLD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1 tvg-id="韩·HotPlusTV" tvg-name="韩·HotPlusTV" tvg-logo="https://live.fanmingming.com/tv/韩·HotPlusTV.png" group-title="全球",韩·HotPlusTV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VB" tvg-name="VB" tvg-logo="https://live.fanmingming.com/tv/VB.png" group-title="全球",VB
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="俄·IGITV蓝光" tvg-name="俄·IGITV蓝光" tvg-logo="https://live.fanmingming.com/tv/俄·IGITV蓝光.png" group-title="全球",俄·IGITV蓝光
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="俄·RBC(Opt-1)[996*560]" tvg-name="俄·RBC(Opt-1)[996*560]" tvg-logo="https://live.fanmingming.com/tv/俄·RBC(Opt-1)[996*560].png" group-title="全球",俄·RBC(Opt-1)[996*560]
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="美·NASA Public Channel" tvg-name="美·NASA Public Channel" tvg-logo="https://live.fanmingming.com/tv/美·NASA Public Channel.png" group-title="全球",美·NASA Public Channel
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="美·NASA Public Channel" tvg-name="美·NASA Public Channel" tvg-logo="https://live.fanmingming.com/tv/美·NASA Public Channel.png" group-title="全球",美·NASA Public Channel
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="美·红牛运动" tvg-name="美·红牛运动" tvg-logo="https://live.fanmingming.com/tv/美·红牛运动.png" group-title="全球",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="美·红牛运动" tvg-name="美·红牛运动" tvg-logo="https://live.fanmingming.com/tv/美·红牛运动.png" group-title="全球",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="乌·M2音乐" tvg-name="乌·M2音乐" tvg-logo="https://live.fanmingming.com/tv/乌·M2音乐.png" group-title="全球",乌·M2音乐
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="欧洲体育电视台" tvg-name="欧洲体育电视台" tvg-logo="https://live.fanmingming.com/tv/欧洲体育电视台.png" group-title="全球",欧洲体育电视台
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="希·FoxTV" tvg-name="希·FoxTV" tvg-logo="https://live.fanmingming.com/tv/希·FoxTV.png" group-title="全球",希·FoxTV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="越·HBTV" tvg-name="越·HBTV" tvg-logo="https://live.fanmingming.com/tv/越·HBTV.png" group-title="全球",越·HBTV
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="番薯" tvg-name="番薯" tvg-logo="https://live.fanmingming.com/tv/番薯.png" group-title="全球",番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="全球",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="全球",耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC新闻" tvg-name="ABC新闻" tvg-logo="https://live.fanmingming.com/tv/ABC新闻.png" group-title="全球",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="NewsmaxTV" tvg-name="NewsmaxTV" tvg-logo="https://live.fanmingming.com/tv/NewsmaxTV.png" group-title="全球",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="PBSAmerica" tvg-name="PBSAmerica" tvg-logo="https://live.fanmingming.com/tv/PBSAmerica.png" group-title="全球",PBSAmerica
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="moviesphere" tvg-name="moviesphere" tvg-logo="https://live.fanmingming.com/tv/moviesphere.png" group-title="全球",moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EdgeSport" tvg-name="EdgeSport" tvg-logo="https://live.fanmingming.com/tv/EdgeSport.png" group-title="全球",EdgeSport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaOne" tvg-name="CanadaOne" tvg-logo="https://live.fanmingming.com/tv/CanadaOne.png" group-title="全球",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CA" tvg-name="CA" tvg-logo="https://live.fanmingming.com/tv/CA.png" group-title="全球",CA
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="InsightTV" tvg-name="InsightTV" tvg-logo="https://live.fanmingming.com/tv/InsightTV.png" group-title="全球",InsightTV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Astrakhan24(Opt-2)" tvg-name="Astrakhan24(Opt-2)" tvg-logo="https://live.fanmingming.com/tv/Astrakhan24(Opt-2).png" group-title="全球",Astrakhan24(Opt-2)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 tvg-id="Самара" tvg-name="Самара" tvg-logo="https://live.fanmingming.com/tv/Самара.png" group-title="全球",Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy" tvg-name="Comedy" tvg-logo="https://live.fanmingming.com/tv/Comedy.png" group-title="全球",Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Documentary" tvg-logo="https://live.fanmingming.com/tv/Documentary.png" group-title="全球",Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Family" tvg-name="Family" tvg-logo="https://live.fanmingming.com/tv/Family.png" group-title="全球",Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Iranian" tvg-name="Iranian" tvg-logo="https://live.fanmingming.com/tv/Iranian.png" group-title="全球",Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Music" tvg-name="Music" tvg-logo="https://live.fanmingming.com/tv/Music.png" group-title="全球",Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nostalgia" tvg-name="Nostalgia" tvg-logo="https://live.fanmingming.com/tv/Nostalgia.png" group-title="全球",Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="韩国-KBS World" tvg-name="韩国-KBS World" tvg-logo="https://live.fanmingming.com/tv/韩国-KBS World.png" group-title="全球",韩国-KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="韩国-Arirang" tvg-name="韩国-Arirang" tvg-logo="https://live.fanmingming.com/tv/韩国-Arirang.png" group-title="全球",韩国-Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国-EBS1" tvg-name="韩国-EBS1" tvg-logo="https://live.fanmingming.com/tv/韩国-EBS1.png" group-title="全球",韩国-EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国-EBS2" tvg-name="韩国-EBS2" tvg-logo="https://live.fanmingming.com/tv/韩国-EBS2.png" group-title="全球",韩国-EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国-EBSe" tvg-name="韩国-EBSe" tvg-logo="https://live.fanmingming.com/tv/韩国-EBSe.png" group-title="全球",韩国-EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="韩国-KCTV" tvg-name="韩国-KCTV" tvg-logo="https://live.fanmingming.com/tv/韩国-KCTV.png" group-title="全球",韩国-KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 tvg-id="韩国-NBS" tvg-name="韩国-NBS" tvg-logo="https://live.fanmingming.com/tv/韩国-NBS.png" group-title="全球",韩国-NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="日本购物1" tvg-name="日本购物1" tvg-logo="https://live.fanmingming.com/tv/日本购物1.png" group-title="全球",日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-id="日本Shop Channel" tvg-name="日本Shop Channel" tvg-logo="https://live.fanmingming.com/tv/日本Shop Channel.png" group-title="全球",日本Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="长城精品" tvg-name="长城精品" tvg-logo="https://live.fanmingming.com/tv/长城精品.png" group-title="全球",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+#EXTINF:-1 tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://live.fanmingming.com/tv/香港佛陀.png" group-title="全球",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://live.fanmingming.com/tv/香港佛陀.png" group-title="全球",香港佛陀
+https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+#EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.com/tv/环球电视.png" group-title="全球",环球电视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="全球",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="中國環球" tvg-name="中國環球" tvg-logo="https://live.fanmingming.com/tv/中國環球.png" group-title="全球",中國環球
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="华文一台" tvg-name="华文一台" tvg-logo="https://live.fanmingming.com/tv/华文一台.png" group-title="全球",华文一台
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 tvg-id="华文六台" tvg-name="华文六台" tvg-logo="https://live.fanmingming.com/tv/华文六台.png" group-title="全球",华文六台
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+#EXTINF:-1 tvg-id="NHK世界" tvg-name="NHK世界" tvg-logo="https://live.fanmingming.com/tv/NHK世界.png" group-title="全球",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="CNA新闻" tvg-name="CNA新闻" tvg-logo="https://live.fanmingming.com/tv/CNA新闻.png" group-title="全球",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="全球",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="全球",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://live.fanmingming.com/tv/金砖中文.png" group-title="全球",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="金砖英文" tvg-name="金砖英文" tvg-logo="https://live.fanmingming.com/tv/金砖英文.png" group-title="全球",金砖英文
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="BRICS台" tvg-name="BRICS台" tvg-logo="https://live.fanmingming.com/tv/BRICS台.png" group-title="全球",BRICS台
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="俄罗斯频" tvg-name="俄罗斯频" tvg-logo="https://live.fanmingming.com/tv/俄罗斯频.png" group-title="全球",俄罗斯频
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="乌克兰台" tvg-name="乌克兰台" tvg-logo="https://live.fanmingming.com/tv/乌克兰台.png" group-title="全球",乌克兰台
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="泰国ASTV" tvg-name="泰国ASTV" tvg-logo="https://live.fanmingming.com/tv/泰国ASTV.png" group-title="全球",泰国ASTV
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="朝鲜新闻" tvg-name="朝鲜新闻" tvg-logo="https://live.fanmingming.com/tv/朝鲜新闻.png" group-title="全球",朝鲜新闻
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-id="韩国新闻" tvg-name="韩国新闻" tvg-logo="https://live.fanmingming.com/tv/韩国新闻.png" group-title="全球",韩国新闻
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="俄罗斯台" tvg-name="俄罗斯台" tvg-logo="https://live.fanmingming.com/tv/俄罗斯台.png" group-title="全球",俄罗斯台
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="日本华语" tvg-name="日本华语" tvg-logo="https://live.fanmingming.com/tv/日本华语.png" group-title="全球",日本华语
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="全球",澳门莲花
+http://107.151.203.111:2209/135/hk.php?id=amlh
+#EXTINF:-1 tvg-id="环球频道" tvg-name="环球频道" tvg-logo="https://live.fanmingming.com/tv/环球频道.png" group-title="全球",环球频道
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="ABC新闻" tvg-name="ABC新闻" tvg-logo="https://live.fanmingming.com/tv/ABC新闻.png" group-title="全球",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="红牛运动" tvg-name="红牛运动" tvg-logo="https://live.fanmingming.com/tv/红牛运动.png" group-title="全球",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="CNA频道" tvg-name="CNA频道" tvg-logo="https://live.fanmingming.com/tv/CNA频道.png" group-title="全球",CNA频道
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="法国时尚" tvg-name="法国时尚" tvg-logo="https://live.fanmingming.com/tv/法国时尚.png" group-title="全球",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="欧洲体育" tvg-name="欧洲体育" tvg-logo="https://live.fanmingming.com/tv/欧洲体育.png" group-title="全球",欧洲体育
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="欧洲华01" tvg-name="欧洲华01" tvg-logo="https://live.fanmingming.com/tv/欧洲华01.png" group-title="全球",欧洲华01
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
+#EXTINF:-1 tvg-id="欧洲华02" tvg-name="欧洲华02" tvg-logo="https://live.fanmingming.com/tv/欧洲华02.png" group-title="全球",欧洲华02
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 tvg-id="欧洲华06" tvg-name="欧洲华06" tvg-logo="https://live.fanmingming.com/tv/欧洲华06.png" group-title="全球",欧洲华06
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe 
+#EXTINF:-1 tvg-id="动物频道" tvg-name="动物频道" tvg-logo="https://live.fanmingming.com/tv/动物频道.png" group-title="全球",动物频道
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="地理野生" tvg-name="地理野生" tvg-logo="https://live.fanmingming.com/tv/地理野生.png" group-title="全球",地理野生
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+
+#EXTINF:-1 tvg-id="Lifetime Movie" tvg-name="Lifetime Movie" tvg-logo="https://live.fanmingming.com/tv/Lifetime Movie.png" group-title="外一",Lifetime Movie
+p3p://fccsen.dyndns.tv:29706/5a6554fa0003c32cd77bc1a751886599
+#EXTINF:-1 tvg-id="VH-1" tvg-name="VH-1" tvg-logo="https://live.fanmingming.com/tv/VH-1.png" group-title="外一",VH-1
+p3p://fccsen.dyndns.tv:29706/5a46716a00078e0d5ed31d3460da3911
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://live.fanmingming.com/tv/BBC America.png" group-title="外一",BBC America
+p3p://fccsen.dyndns.tv:29706/5a01d8fc000a4ee752e0271350321283
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://live.fanmingming.com/tv/TBS.png" group-title="外一",TBS
+p3p://fccsen.dyndns.tv:29706/5b7c9a5f00076daa1a60a86359a531ea
+#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-logo="https://live.fanmingming.com/tv/Destination America.png" group-title="外一",Destination America
+p3p://fccsen.dyndns.tv:29706/5a4af6c60005abb5707bfcb6077937a0
+#EXTINF:-1 tvg-id="MTV US" tvg-name="MTV US" tvg-logo="https://live.fanmingming.com/tv/MTV US.png" group-title="外一",MTV US
+p3p://fccsen.dyndns.tv:29706/5b7cc0d40008b4961af6e1be0e8a0491
+#EXTINF:-1 tvg-id="OWN US" tvg-name="OWN US" tvg-logo="https://live.fanmingming.com/tv/OWN US.png" group-title="外一",OWN US
+p3p://fccsen.dyndns.tv:29706/5f90e140000e4e52bec2c31d768f133a
+#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="FashionTV HD" tvg-logo="https://live.fanmingming.com/tv/FashionTV HD.png" group-title="外一",FashionTV HD
+p3p://108.181.20.159:71421/64577742000d1a6986e1aac95b701e8b
+#EXTINF:-1 tvg-id="FashionTV HD" tvg-name="FashionTV HD" tvg-logo="https://live.fanmingming.com/tv/FashionTV HD.png" group-title="外一",FashionTV HD
+p3p://fccsen.dyndns.tv:29706/615276c1000841769af1921e0239571f
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="https://live.fanmingming.com/tv/Fashion TV.png" group-title="外一",Fashion TV
+p3p://fccsen.dyndns.tv:29706/5a43e5ea0002d22c54e2300409a71dad
+#EXTINF:-1 tvg-id="GSN" tvg-name="GSN" tvg-logo="https://live.fanmingming.com/tv/GSN.png" group-title="外一",GSN
+p3p://fccsen.dyndns.tv:29706/5bd7adf4000e15bd7e2468267440101a
+#EXTINF:-1 tvg-id="Great American" tvg-name="Great American" tvg-logo="https://live.fanmingming.com/tv/Great American.png" group-title="外一",Great American
+p3p://fccsen.dyndns.tv:29706/5db233aa000d382c7983c4501be10123
+#EXTINF:-1 tvg-id="Freeform" tvg-name="Freeform" tvg-logo="https://live.fanmingming.com/tv/Freeform.png" group-title="外一",Freeform
+p3p://fccsen.dyndns.tv:29706/5a9e1feb000d44f1b55421701c633a29
+#EXTINF:-1 tvg-id="C+I US" tvg-name="C+I US" tvg-logo="https://live.fanmingming.com/tv/C+I US.png" group-title="外一",C+I US
+p3p://fccsen.dyndns.tv:29706/5a02116000082b1353bc6d2b2ae931ff
+#EXTINF:-1 tvg-id="Fuse" tvg-name="Fuse" tvg-logo="https://live.fanmingming.com/tv/Fuse.png" group-title="外一",Fuse
+p3p://fccsen.dyndns.tv:29706/5ab3d751000ead120a2866c74cd96f23
+#EXTINF:-1 tvg-id="Me TV 23" tvg-name="Me TV 23" tvg-logo="https://live.fanmingming.com/tv/Me TV 23.png" group-title="外一",Me TV 23
+p3p://fccsen.dyndns.tv:29706/5acd60e600047cf16de99d001a3b4f7e
+#EXTINF:-1 tvg-id="FYI" tvg-name="FYI" tvg-logo="https://live.fanmingming.com/tv/FYI.png" group-title="外一",FYI
+p3p://fccsen.dyndns.tv:29706/5b7c9957000d63fb1a5ca2a840085e1a
+#EXTINF:-1 tvg-id="HGTV US" tvg-name="HGTV US" tvg-logo="https://live.fanmingming.com/tv/HGTV US.png" group-title="外一",HGTV US
+p3p://fccsen.dyndns.tv:29706/5a91ad54000253e284b4a0ae39110fc8
+#EXTINF:-1 tvg-id="Cooking Channel" tvg-name="Cooking Channel" tvg-logo="https://live.fanmingming.com/tv/Cooking Channel.png" group-title="外一",Cooking Channel
+p3p://fccsen.dyndns.tv:29706/5a824d59000df7e648a5c80057151ed6
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://live.fanmingming.com/tv/Food Network.png" group-title="外一",Food Network
+p3p://fccsen.dyndns.tv:29706/59bc7e11000b47f5585946df50305dc2
+#EXTINF:-1 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="https://live.fanmingming.com/tv/Discovery Life.png" group-title="外一",Discovery Life
+p3p://fccsen.dyndns.tv:29706/5b2c50dd000a1eb3e0c241e3759d22cb
+#EXTINF:-1 tvg-id="DIY Network" tvg-name="DIY Network" tvg-logo="https://live.fanmingming.com/tv/DIY Network.png" group-title="外一",DIY Network
+p3p://fccsen.dyndns.tv:29706/5bd1461f0003f8b3651ecd8a078e74fc
+#EXTINF:-1 tvg-id="Logo TV" tvg-name="Logo TV" tvg-logo="https://live.fanmingming.com/tv/Logo TV.png" group-title="外一",Logo TV
+p3p://fccsen.dyndns.tv:29706/5d6ec2d20002e4d972132c2d3b57367f
+#EXTINF:-1 tvg-id="American Heroes" tvg-name="American Heroes" tvg-logo="https://live.fanmingming.com/tv/American Heroes.png" group-title="外一",American Heroes
+p3p://fccsen.dyndns.tv:29706/5c183b520001b64738127e491183292d
+#EXTINF:-1 tvg-id="Oxygen" tvg-name="Oxygen" tvg-logo="https://live.fanmingming.com/tv/Oxygen.png" group-title="外一",Oxygen
+p3p://fccsen.dyndns.tv:29706/5c183b75000024f43813069b204240f3
+#EXTINF:-1 tvg-id="TLC US" tvg-name="TLC US" tvg-logo="https://live.fanmingming.com/tv/TLC US.png" group-title="外一",TLC US
+p3p://fccsen.dyndns.tv:29706/5c5e47da0000bb2c49b3714d35d04474
+#EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="https://live.fanmingming.com/tv/TV One.png" group-title="外一",TV One
+p3p://fccsen.dyndns.tv:29706/5d6efa6c0000349172ec5d012a1216a7
+#EXTINF:-1 tvg-id="BET Her" tvg-name="BET Her" tvg-logo="https://live.fanmingming.com/tv/BET Her.png" group-title="外一",BET Her
+p3p://fccsen.dyndns.tv:29706/5d8421fb00053029c58ed2714a465653
+#EXTINF:-1 tvg-id="BET Jams" tvg-name="BET Jams" tvg-logo="https://live.fanmingming.com/tv/BET Jams.png" group-title="外一",BET Jams
+p3p://fccsen.dyndns.tv:29706/5d8422100000a11dc58f234e43706dda
+#EXTINF:-1 tvg-id="BET Soul" tvg-name="BET Soul" tvg-logo="https://live.fanmingming.com/tv/BET Soul.png" group-title="外一",BET Soul
+p3p://fccsen.dyndns.tv:29706/5d842222000ef2dec58f6d494b17556d
+#EXTINF:-1 tvg-id="Comet" tvg-name="Comet" tvg-logo="https://live.fanmingming.com/tv/Comet.png" group-title="外一",Comet
+p3p://fccsen.dyndns.tv:29706/5db23393000ef87479836aea17cc05a1
+#EXTINF:-1 tvg-id="Cozi TV" tvg-name="Cozi TV" tvg-logo="https://live.fanmingming.com/tv/Cozi TV.png" group-title="外一",Cozi TV
+p3p://fccsen.dyndns.tv:29706/5e31d0a0000b13126c00b2fe0cce1afd
+#EXTINF:-1 tvg-id="FXM" tvg-name="FXM" tvg-logo="https://live.fanmingming.com/tv/FXM.png" group-title="外一",FXM
+p3p://fccsen.dyndns.tv:29706/5f5f799b000c2dcbfdc6094a128c03dd
+#EXTINF:-1 tvg-id="Ginx eSports" tvg-name="Ginx eSports" tvg-logo="https://live.fanmingming.com/tv/Ginx eSports.png" group-title="外一",Ginx eSports
+p3p://fccsen.dyndns.tv:29706/5e43489d00057424b03d5dc406ea2a36
+#EXTINF:-1 tvg-id="ION TV" tvg-name="ION TV" tvg-logo="https://live.fanmingming.com/tv/ION TV.png" group-title="外一",ION TV
+p3p://fccsen.dyndns.tv:29706/5f28c3f300077a702810aa0817f10617
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://live.fanmingming.com/tv/KBS World.png" group-title="外一",KBS World
+p3p://fccsen.dyndns.tv:29706/5e49b05d0008623bc942a477064225a9
+#EXTINF:-1 tvg-id="Daystar TV" tvg-name="Daystar TV" tvg-logo="https://live.fanmingming.com/tv/Daystar TV.png" group-title="外一",Daystar TV
+p3p://fccsen.dyndns.tv:29706/61e0b91f000b1934c6a47c4630f946a1
+#EXTINF:-1 tvg-id="NASA TV" tvg-name="NASA TV" tvg-logo="https://live.fanmingming.com/tv/NASA TV.png" group-title="外一",NASA TV
+p3p://fccsen.dyndns.tv:29706/5c509c05000ddf47144c3c9e1c834bf1
+#EXTINF:-1 tvg-id="NASA 4K" tvg-name="NASA 4K" tvg-logo="https://live.fanmingming.com/tv/NASA 4K.png" group-title="外一",NASA 4K
+p3p://fccsen.dyndns.tv:29706/5f2747090009bab62240b88a51ab7763
+#EXTINF:-1 tvg-id="Travelxp HD" tvg-name="Travelxp HD" tvg-logo="https://live.fanmingming.com/tv/Travelxp HD.png" group-title="外一",Travelxp HD
+p3p://fccsen.dyndns.tv:29706/5ffe5fc8000b05346a78de1410167cd0
+#EXTINF:-1 tvg-id="WildEarth" tvg-name="WildEarth" tvg-logo="https://live.fanmingming.com/tv/WildEarth.png" group-title="外一",WildEarth
+p3p://fccsen.dyndns.tv:29706/60ad9b300006855116f7e2477b9b5bbc
+#EXTINF:-1 tvg-id="Festival 4k" tvg-name="Festival 4k" tvg-logo="https://live.fanmingming.com/tv/Festival 4k.png" group-title="外一",Festival 4k
+p3p://108.181.20.159:71421/647c5502000692e116e32e9c46b45652
+#EXTINF:-1 tvg-id="Bellator MMA" tvg-name="Bellator MMA" tvg-logo="https://live.fanmingming.com/tv/Bellator MMA.png" group-title="外一",Bellator MMA
+p3p://108.181.20.159:71421/644ed90f000b74d86537dd0e70232024
+#EXTINF:-1 tvg-id="Red Bull" tvg-name="Red Bull" tvg-logo="https://live.fanmingming.com/tv/Red Bull.png" group-title="外一",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="Red Bull" tvg-name="Red Bull" tvg-logo="https://live.fanmingming.com/tv/Red Bull.png" group-title="外一",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-id="BBC 1" tvg-name="BBC 1" tvg-logo="https://live.fanmingming.com/tv/BBC 1.png" group-title="外一",BBC 1
+p3p://fccsen.dyndns.tv:29706/5bb6bb320008c3b8fd705faa6a647667
+#EXTINF:-1 tvg-id="BBC 2" tvg-name="BBC 2" tvg-logo="https://live.fanmingming.com/tv/BBC 2.png" group-title="外一",BBC 2
+p3p://fccsen.dyndns.tv:29706/5bb6bb3f00077ecefd70921f13656e23
+#EXTINF:-1 tvg-id="BBC 3" tvg-name="BBC 3" tvg-logo="https://live.fanmingming.com/tv/BBC 3.png" group-title="外一",BBC 3
+p3p://fccsen.dyndns.tv:29706/59bc7fe40002bfa9586064da5fe27f17
+#EXTINF:-1 tvg-id="BBC 4" tvg-name="BBC 4" tvg-logo="https://live.fanmingming.com/tv/BBC 4.png" group-title="外一",BBC 4
+p3p://fccsen.dyndns.tv:29706/59bc801000090e075861125817955ece
+#EXTINF:-1 tvg-id="4 Seven" tvg-name="4 Seven" tvg-logo="https://live.fanmingming.com/tv/4 Seven.png" group-title="外一",4 Seven
+p3p://fccsen.dyndns.tv:29706/5fc8350400098fcf96e1e2fc391f40d5
+#EXTINF:-1 tvg-id="ITV 1" tvg-name="ITV 1" tvg-logo="https://live.fanmingming.com/tv/ITV 1.png" group-title="外一",ITV 1
+p3p://fccsen.dyndns.tv:29706/5ef279a1000a834953fe9f820c3a1e28
+#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="https://live.fanmingming.com/tv/ITV 2.png" group-title="外一",ITV 2
+p3p://fccsen.dyndns.tv:29706/59c67e1d00059c307f6961cb24ad3501
+#EXTINF:-1 tvg-id="ITV 3" tvg-name="ITV 3" tvg-logo="https://live.fanmingming.com/tv/ITV 3.png" group-title="外一",ITV 3
+p3p://fccsen.dyndns.tv:29706/5a21d67a000d3582cfd627334c8c2ac4
+#EXTINF:-1 tvg-id="ITV 4" tvg-name="ITV 4" tvg-logo="https://live.fanmingming.com/tv/ITV 4.png" group-title="外一",ITV 4
+p3p://fccsen.dyndns.tv:29706/5da515260002b0a746448df737ea317b
+#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://live.fanmingming.com/tv/Channel 4.png" group-title="外一",Channel 4
+p3p://fccsen.dyndns.tv:29706/5a4fc6a30000c6fe8347f2ba7b456d3d
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://live.fanmingming.com/tv/Channel 5.png" group-title="外一",Channel 5
+p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
+#EXTINF:-1 tvg-id="Film 4" tvg-name="Film 4" tvg-logo="https://live.fanmingming.com/tv/Film 4.png" group-title="外一",Film 4
+p3p://fccsen.dyndns.tv:29706/5a4fc6f9000c7c77834945aa62c55dd2
+#EXTINF:-1 tvg-id="More 4" tvg-name="More 4" tvg-logo="https://live.fanmingming.com/tv/More 4.png" group-title="外一",More 4
+p3p://fccsen.dyndns.tv:29706/5bf0817c000316d3df1e708d010a4787
+#EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-logo="https://live.fanmingming.com/tv/Drama.png" group-title="外一",Drama
+p3p://fccsen.dyndns.tv:29706/5d9e803b00086ca32c8ee1e970232f56
+#EXTINF:-1 tvg-id="Alibi" tvg-name="Alibi" tvg-logo="https://live.fanmingming.com/tv/Alibi.png" group-title="外一",Alibi
+p3p://fccsen.dyndns.tv:29706/5a5028b5000ce1d084c70c1c77fb2cde
+#EXTINF:-1 tvg-id="Quest" tvg-name="Quest" tvg-logo="https://live.fanmingming.com/tv/Quest.png" group-title="外一",Quest
+p3p://fccsen.dyndns.tv:29706/5a5028c6000d6b6e84c74ea702584daa
+#EXTINF:-1 tvg-id="Gold" tvg-name="Gold" tvg-logo="https://live.fanmingming.com/tv/Gold.png" group-title="外一",Gold
+p3p://fccsen.dyndns.tv:29706/5a5028d80004694d84c792a90f466ae3
+#EXTINF:-1 tvg-id="ITVbe" tvg-name="ITVbe" tvg-logo="https://live.fanmingming.com/tv/ITVbe.png" group-title="外一",ITVbe
+p3p://fccsen.dyndns.tv:29706/5a5028ea0009ec5d84c7da6221e13f41
+#EXTINF:-1 tvg-id="Home" tvg-name="Home" tvg-logo="https://live.fanmingming.com/tv/Home.png" group-title="外一",Home
+p3p://fccsen.dyndns.tv:29706/5da51b9e000e3265465dd5b1148d3edd
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://live.fanmingming.com/tv/Food Network.png" group-title="外一",Food Network
+p3p://fccsen.dyndns.tv:29706/5da51cc1000719a3466244991dfc4c94
+#EXTINF:-1 tvg-id="Yesterday" tvg-name="Yesterday" tvg-logo="https://live.fanmingming.com/tv/Yesterday.png" group-title="外一",Yesterday
+p3p://fccsen.dyndns.tv:29706/5a503add0004be13850df64c4e0e7ed9
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="https://live.fanmingming.com/tv/TLC UK.png" group-title="外一",TLC UK
+p3p://fccsen.dyndns.tv:29706/5da51b58000255f9465cc13749aa2c6a
