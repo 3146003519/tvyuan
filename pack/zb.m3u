@@ -268,48 +268,53 @@ http://183.188.22.193:6001/rtp/226.0.2.183:9376
 
 
 
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="山西",山西卫视
+http://171.120.59.165:8004/rtp/226.0.2.11:8000
 #EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
-http://118.79.113.210:6000/rtp/226.0.2.235:9792
+http://171.120.59.165:8004/rtp/226.0.2.235:9792
 #EXTINF:-1 tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="山西",山西经济与科技
-http://118.79.113.210:6000/rtp/226.0.2.236:9800
+http://171.120.59.165:8004/rtp/226.0.2.236:9800
 #EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
-http://118.79.113.210:6000/rtp/226.0.2.237:9808
+http://171.120.59.165:8004/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
-http://118.79.113.210:6000/rtp/226.0.2.238:9816
+http://171.120.59.165:8004/rtp/226.0.2.238:9816
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
-http://118.79.113.210:6000/rtp/226.0.2.16:8040
+http://171.120.59.165:8004/rtp/226.0.2.16:8040
 #EXTINF:-1 tvg-id="党建频道" tvg-name="党建频道" tvg-logo="https://live.fanmingming.com/tv/党建频道.png" group-title="山西",党建频道
-http://118.79.113.210:6000/rtp/226.0.2.184:9384
+http://171.120.59.165:8004/rtp/226.0.2.184:9384
 #EXTINF:-1 tvg-id="朔州-1" tvg-name="朔州-1" tvg-logo="https://live.fanmingming.com/tv/朔州-1.png" group-title="山西",朔州-1
-http://118.79.113.210:6000/rtp/226.0.2.185:9392
+http://171.120.59.165:8004/rtp/226.0.2.185:9392
 #EXTINF:-1 tvg-id="朔州-2" tvg-name="朔州-2" tvg-logo="https://live.fanmingming.com/tv/朔州-2.png" group-title="山西",朔州-2
-http://118.79.113.210:6000/rtp/226.0.2.186:9400
+http://171.120.59.165:8004/rtp/226.0.2.186:9400
 #EXTINF:-1 tvg-id="孝义电视台" tvg-name="孝义电视台" tvg-logo="https://live.fanmingming.com/tv/孝义电视台.png" group-title="山西",孝义电视台
-http://118.79.113.210:6000/rtp/226.0.2.189:9424
+http://171.120.59.165:8004/rtp/226.0.2.189:9424
 #EXTINF:-1 tvg-id="清徐" tvg-name="清徐" tvg-logo="https://live.fanmingming.com/tv/清徐.png" group-title="山西",清徐
-http://118.79.113.210:6000/rtp/226.0.2.191:9440
+http://171.120.59.165:8004/rtp/226.0.2.191:9440
 #EXTINF:-1 tvg-id="古交电视台" tvg-name="古交电视台" tvg-logo="https://live.fanmingming.com/tv/古交电视台.png" group-title="山西",古交电视台
-http://118.79.113.210:6000/rtp/226.0.2.192:9448
+http://171.120.59.165:8004/rtp/226.0.2.192:9448
 #EXTINF:-1 tvg-id="阳曲" tvg-name="阳曲" tvg-logo="https://live.fanmingming.com/tv/阳曲.png" group-title="山西",阳曲
-http://118.79.113.210:6000/rtp/226.0.2.196:9480
+http://171.120.59.165:8004/rtp/226.0.2.196:9480
 #EXTINF:-1 tvg-id="太原1" tvg-name="太原1" tvg-logo="https://live.fanmingming.com/tv/太原1.png" group-title="山西",太原1
-http://118.79.113.210:6000/rtp/226.0.2.201:9520
+http://171.120.59.165:8004/rtp/226.0.2.201:9520
 #EXTINF:-1 tvg-id="太原2" tvg-name="太原2" tvg-logo="https://live.fanmingming.com/tv/太原2.png" group-title="山西",太原2
-http://118.79.113.210:6000/rtp/226.0.2.202:9528
+http://171.120.59.165:8004/rtp/226.0.2.202:9528
 #EXTINF:-1 tvg-id="太原3" tvg-name="太原3" tvg-logo="https://live.fanmingming.com/tv/太原3.png" group-title="山西",太原3
-http://118.79.113.210:6000/rtp/226.0.2.203:9536
+http://171.120.59.165:8004/rtp/226.0.2.203:9536
 #EXTINF:-1 tvg-id="太原4" tvg-name="太原4" tvg-logo="https://live.fanmingming.com/tv/太原4.png" group-title="山西",太原4
-http://118.79.113.210:6000/rtp/226.0.2.204:9544
+http://171.120.59.165:8004/rtp/226.0.2.204:9544
 #EXTINF:-1 tvg-id="太原5" tvg-name="太原5" tvg-logo="https://live.fanmingming.com/tv/太原5.png" group-title="山西",太原5
-http://118.79.113.210:6000/rtp/226.0.2.205:9552
+http://171.120.59.165:8004/rtp/226.0.2.205:9552
 #EXTINF:-1 tvg-id="太原教育" tvg-name="太原教育" tvg-logo="https://live.fanmingming.com/tv/太原教育.png" group-title="山西",太原教育
-http://118.79.113.210:6000/rtp/226.0.2.206:9560
+http://171.120.59.165:8004/rtp/226.0.2.206:9560
+#EXTINF:-1 tvg-id="晋能控股" tvg-name="晋能控股" tvg-logo="https://live.fanmingming.com/tv/晋能控股.png" group-title="山西",晋能控股
+http://171.120.59.165:8004/rtp/226.0.2.229:9744
 #EXTINF:-1 tvg-id="大同教育" tvg-name="大同教育" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="山西",大同教育
-http://118.79.113.210:6000/rtp/226.0.2.232:9772
+http://171.120.59.165:8004/rtp/226.0.2.232:9772
 #EXTINF:-1 tvg-id="阳泉-1新闻综合" tvg-name="阳泉-1新闻综合" tvg-logo="https://live.fanmingming.com/tv/阳泉-1新闻综合.png" group-title="山西",阳泉-1新闻综合
-http://118.79.113.210:6000/rtp/226.0.2.233:9776
+http://171.120.59.165:8004/rtp/226.0.2.233:9776
 #EXTINF:-1 tvg-id="阳泉-2科教" tvg-name="阳泉-2科教" tvg-logo="https://live.fanmingming.com/tv/阳泉-2科教.png" group-title="山西",阳泉-2科教
-http://118.79.113.210:6000/rtp/226.0.2.234:9784
+http://171.120.59.165:8004/rtp/226.0.2.234:9784
+
 
 
 
@@ -355,3 +360,25 @@ http://114.246.255.39:5400/rtp/239.3.1.154:8001
 http://114.246.255.39:5400/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="房山电视台" tvg-name="房山电视台" tvg-logo="https://live.fanmingming.com/tv/房山电视台.png" group-title="北京",房山电视台
 http://114.246.255.39:5400/rtp/239.3.1.96:8001
+
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="海南",海南卫视
+http://124.66.14.158:4022/rtp/239.254.96.179:7154
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="海南",三沙卫视
+http://124.66.14.158:4022/rtp/239.254.96.184:7158
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="海南",海南自贸
+http://124.66.14.158:4022/rtp/239.254.96.185:8162
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="海南",海南公共
+http://124.66.14.158:4022/rtp/239.254.96.186:8164
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="海南",海南文旅
+http://124.66.14.158:4022/rtp/239.254.96.191:8176
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="海南",海南少儿
+http://124.66.14.158:4022/rtp/239.254.96.192:8178
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://live.fanmingming.com/tv/海南新闻.png" group-title="海南",海南新闻
+http://124.66.14.158:4022/rtp/239.254.96.190:8174
+#EXTINF:-1 tvg-id="海口1台" tvg-name="海口1台" tvg-logo="https://live.fanmingming.com/tv/海口1台.png" group-title="海南",海口1台
+http://124.66.14.158:4022/rtp/239.254.96.103:7808
+#EXTINF:-1 tvg-id="三亚1台" tvg-name="三亚1台" tvg-logo="https://live.fanmingming.com/tv/三亚1台.png" group-title="海南",三亚1台
+http://124.66.14.158:4022/rtp/239.254.96.106:8832
+#EXTINF:-1 tvg-id="文昌" tvg-name="文昌" tvg-logo="https://live.fanmingming.com/tv/文昌.png" group-title="海南",文昌
+http://124.66.14.158:4022/rtp/239.254.96.107:7840
