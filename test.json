@@ -2,15 +2,8 @@
 "spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
-{"key":"豆豆","name":"SLYX","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"玩偶","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"YGP","name":"🚀预告┃新片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"玩偶","name":"测试","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
-{"spider":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;395427a9e5b94114f9a1fdcd3ec2d5d3","key":"南瓜弹幕版","name":"🎃南瓜┃弹幕","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":10},
-{"spider":"https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;395427a9e5b94114f9a1fdcd3ec2d5d3","key":"酷看弹幕版","name":"😎酷看┃弹幕","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},
-"timeout":20},
-            
 {"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
 "key": "csp_91黑料",
 "name": "91黑料",
