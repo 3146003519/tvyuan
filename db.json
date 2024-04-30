@@ -10,7 +10,7 @@
 {"key":"Biliych","name":"🅱听歌┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json"},
 {"key":"Bili","name":"🅱哔哩┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
-"searchable":1,"quickSearch":0,"changeable":0,"ext":"./package/bili.json"},
+"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
 {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
