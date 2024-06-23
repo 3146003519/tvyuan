@@ -321,6 +321,61 @@ http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 
 
 
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西卫视" group-title="本地",山西卫视
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000100/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="黄河卫视" group-title="本地",黄河卫视
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000128/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西经济" group-title="本地",山西经济
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000129/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西影视" group-title="本地",山西影视
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000130/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西社会法治" group-title="本地",山西社会法治
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000131/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西文体生活" group-title="本地",山西文体生活
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000132/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原-1" group-title="本地",太原-1
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000180/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原-2" group-title="本地",太原-2
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000181/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原-3" group-title="本地",太原-3
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000182/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原-4" group-title="本地",太原-4
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000183/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原-5" group-title="本地",太原-5
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000185/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="太原教育" group-title="本地",太原教育
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000178/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="运城稷山" group-title="本地",运城稷山
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000200/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="晋中左权" group-title="本地",晋中左权
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000195/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="阳泉新闻综合" group-title="本地",阳泉新闻综合
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000218/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="阳泉科教" group-title="本地",阳泉科教
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000219/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="阳泉平定综合" group-title="本地",阳泉平定综合
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000196/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="朔州-1" group-title="本地",朔州-1
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000210/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="朔州-2" group-title="本地",朔州-2
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000209/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="临汾永和" group-title="本地",临汾永和
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000187/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="长治潞州" group-title="本地",长治潞州
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000188/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="霍州频道" group-title="本地",霍州频道
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000179/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="山西焦煤" group-title="本地",山西焦煤
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000190/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}" tvg-name="绛县电视" group-title="本地",绛县电视
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000206/1000.m3u8?
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京",北京卫视
 http://123.120.111.37:8686/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="新闻" tvg-name="新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻
