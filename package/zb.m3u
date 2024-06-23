@@ -268,52 +268,55 @@ http://183.188.22.193:6001/rtp/226.0.2.183:9376
 
 
 
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="山西",山西卫视
-http://171.120.59.165:8004/rtp/226.0.2.11:8000
-#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
-http://171.120.59.165:8004/rtp/226.0.2.235:9792
-#EXTINF:-1 tvg-id="山西经济与科技" tvg-name="山西经济与科技" tvg-logo="https://live.fanmingming.com/tv/山西经济与科技.png" group-title="山西",山西经济与科技
-http://171.120.59.165:8004/rtp/226.0.2.236:9800
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
-http://171.120.59.165:8004/rtp/226.0.2.237:9808
+#EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济
+http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
-http://171.120.59.165:8004/rtp/226.0.2.238:9816
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
-http://171.120.59.165:8004/rtp/226.0.2.16:8040
-#EXTINF:-1 tvg-id="党建频道" tvg-name="党建频道" tvg-logo="https://live.fanmingming.com/tv/党建频道.png" group-title="山西",党建频道
-http://171.120.59.165:8004/rtp/226.0.2.184:9384
-#EXTINF:-1 tvg-id="朔州-1" tvg-name="朔州-1" tvg-logo="https://live.fanmingming.com/tv/朔州-1.png" group-title="山西",朔州-1
-http://171.120.59.165:8004/rtp/226.0.2.185:9392
-#EXTINF:-1 tvg-id="朔州-2" tvg-name="朔州-2" tvg-logo="https://live.fanmingming.com/tv/朔州-2.png" group-title="山西",朔州-2
-http://171.120.59.165:8004/rtp/226.0.2.186:9400
-#EXTINF:-1 tvg-id="孝义电视台" tvg-name="孝义电视台" tvg-logo="https://live.fanmingming.com/tv/孝义电视台.png" group-title="山西",孝义电视台
-http://171.120.59.165:8004/rtp/226.0.2.189:9424
-#EXTINF:-1 tvg-id="清徐" tvg-name="清徐" tvg-logo="https://live.fanmingming.com/tv/清徐.png" group-title="山西",清徐
-http://171.120.59.165:8004/rtp/226.0.2.191:9440
-#EXTINF:-1 tvg-id="古交电视台" tvg-name="古交电视台" tvg-logo="https://live.fanmingming.com/tv/古交电视台.png" group-title="山西",古交电视台
-http://171.120.59.165:8004/rtp/226.0.2.192:9448
-#EXTINF:-1 tvg-id="阳曲" tvg-name="阳曲" tvg-logo="https://live.fanmingming.com/tv/阳曲.png" group-title="山西",阳曲
-http://171.120.59.165:8004/rtp/226.0.2.196:9480
-#EXTINF:-1 tvg-id="太原1" tvg-name="太原1" tvg-logo="https://live.fanmingming.com/tv/太原1.png" group-title="山西",太原1
-http://171.120.59.165:8004/rtp/226.0.2.201:9520
-#EXTINF:-1 tvg-id="太原2" tvg-name="太原2" tvg-logo="https://live.fanmingming.com/tv/太原2.png" group-title="山西",太原2
-http://171.120.59.165:8004/rtp/226.0.2.202:9528
-#EXTINF:-1 tvg-id="太原3" tvg-name="太原3" tvg-logo="https://live.fanmingming.com/tv/太原3.png" group-title="山西",太原3
-http://171.120.59.165:8004/rtp/226.0.2.203:9536
-#EXTINF:-1 tvg-id="太原4" tvg-name="太原4" tvg-logo="https://live.fanmingming.com/tv/太原4.png" group-title="山西",太原4
-http://171.120.59.165:8004/rtp/226.0.2.204:9544
-#EXTINF:-1 tvg-id="太原5" tvg-name="太原5" tvg-logo="https://live.fanmingming.com/tv/太原5.png" group-title="山西",太原5
-http://171.120.59.165:8004/rtp/226.0.2.205:9552
-#EXTINF:-1 tvg-id="太原教育" tvg-name="太原教育" tvg-logo="https://live.fanmingming.com/tv/太原教育.png" group-title="山西",太原教育
-http://171.120.59.165:8004/rtp/226.0.2.206:9560
-#EXTINF:-1 tvg-id="晋能控股" tvg-name="晋能控股" tvg-logo="https://live.fanmingming.com/tv/晋能控股.png" group-title="山西",晋能控股
-http://171.120.59.165:8004/rtp/226.0.2.229:9744
-#EXTINF:-1 tvg-id="大同教育" tvg-name="大同教育" tvg-logo="https://live.fanmingming.com/tv/大同教育.png" group-title="山西",大同教育
-http://171.120.59.165:8004/rtp/226.0.2.232:9772
-#EXTINF:-1 tvg-id="阳泉-1新闻综合" tvg-name="阳泉-1新闻综合" tvg-logo="https://live.fanmingming.com/tv/阳泉-1新闻综合.png" group-title="山西",阳泉-1新闻综合
-http://171.120.59.165:8004/rtp/226.0.2.233:9776
-#EXTINF:-1 tvg-id="阳泉-2科教" tvg-name="阳泉-2科教" tvg-logo="https://live.fanmingming.com/tv/阳泉-2科教.png" group-title="山西",阳泉-2科教
-http://171.120.59.165:8004/rtp/226.0.2.234:9784
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济
+http://angtv.cn/live/shanxi.php?id=sxjj
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
+http://angtv.cn/live/shanxi.php?id=sxwtsh
+#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
+http://angtv.cn/live/shanxi.php?id=sxshfz
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
+http://angtv.cn/live/shanxi.php?id=sxys
+#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
+http://angtv.cn/live/shanxi.php?id=sxhh
+#EXTINF:-1 tvg-id="大宁综合" tvg-name="大宁综合" tvg-logo="https://live.fanmingming.com/tv/大宁综合.png" group-title="山西",大宁综合
+http://live.daningtv.com/channel1/sd/live.m3u8
+#EXTINF:-1 tvg-id="高平综合" tvg-name="高平综合" tvg-logo="https://live.fanmingming.com/tv/高平综合.png" group-title="山西",高平综合
+http://live.gprmt.cn/gpnews/hd/live.m3u8
+#EXTINF:-1 tvg-id="吉县新闻综合" tvg-name="吉县新闻综合" tvg-logo="https://live.fanmingming.com/tv/吉县新闻综合.png" group-title="山西",吉县新闻综合
+http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
+#EXTINF:-1 tvg-id="晋中公共频道" tvg-name="晋中公共频道" tvg-logo="https://live.fanmingming.com/tv/晋中公共频道.png" group-title="山西",晋中公共频道
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1 tvg-id="晋中新闻频道" tvg-name="晋中新闻频道" tvg-logo="https://live.fanmingming.com/tv/晋中新闻频道.png" group-title="山西",晋中新闻频道
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1 tvg-id="黎城综合频道" tvg-name="黎城综合频道" tvg-logo="https://live.fanmingming.com/tv/黎城综合频道.png" group-title="山西",黎城综合频道
+http://111.53.96.67:8081/live/1/index.m3u8
+#EXTINF:-1 tvg-id="临猗综合频道" tvg-name="临猗综合频道" tvg-logo="https://live.fanmingming.com/tv/临猗综合频道.png" group-title="山西",临猗综合频道
+http://pili-live-hls.lyzx.live.chinacici.cn/lyrmt/ceshi-ly.m3u8
+#EXTINF:-1 tvg-id="潞城新闻综合" tvg-name="潞城新闻综合" tvg-logo="https://live.fanmingming.com/tv/潞城新闻综合.png" group-title="山西",潞城新闻综合
+http://59.48.42.6:62204/lucheng.m3u8
+#EXTINF:-1 tvg-id="宁武综合" tvg-name="宁武综合" tvg-logo="https://live.fanmingming.com/tv/宁武综合.png" group-title="山西",宁武综合
+https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8
+#EXTINF:-1 tvg-id="武乡新闻综合" tvg-name="武乡新闻综合" tvg-logo="https://live.fanmingming.com/tv/武乡新闻综合.png" group-title="山西",武乡新闻综合
+http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
+#EXTINF:-1 tvg-id="运城公共频道" tvg-name="运城公共频道" tvg-logo="https://live.fanmingming.com/tv/运城公共频道.png" group-title="山西",运城公共频道
+http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
+#EXTINF:-1 tvg-id="运城科技教育" tvg-name="运城科技教育" tvg-logo="https://live.fanmingming.com/tv/运城科技教育.png" group-title="山西",运城科技教育
+http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
+#EXTINF:-1 tvg-id="运城新闻综合" tvg-name="运城新闻综合" tvg-logo="https://live.fanmingming.com/tv/运城新闻综合.png" group-title="山西",运城新闻综合
+http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
+#EXTINF:-1 tvg-id="长子综合频道" tvg-name="长子综合频道" tvg-logo="https://live.fanmingming.com/tv/长子综合频道.png" group-title="山西",长子综合频道
+http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
+
 
 
 
