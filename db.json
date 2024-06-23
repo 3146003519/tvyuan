@@ -1,6 +1,6 @@
 
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt",
+"spider":"./package/spider.jar",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 {"key":"豆豆","name":"全接口智能过滤广告","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
