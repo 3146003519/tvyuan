@@ -152,8 +152,8 @@ NewTV系列,#genre#
 
 
 山西,#genre#
-山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
-山西经济,http://angtv.cn/live/shanxi.php?id=sxjj
+山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+山西经济与科技,http://angtv.cn/live/shanxi.php?id=sxjj
 山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治,http://angtv.cn/live/shanxi.php?id=sxshfz
 山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
