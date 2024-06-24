@@ -270,22 +270,22 @@ http://183.188.22.193:6001/rtp/226.0.2.183:9376
 
 #EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
-http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
-http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
-http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
-http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西经济" tvg-name="山西经济" tvg-logo="https://live.fanmingming.com/tv/山西经济.png" group-title="山西",山西经济
 http://angtv.cn/live/shanxi.php?id=sxjj
-#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
-http://angtv.cn/live/shanxi.php?id=sxwtsh
+#EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
+http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西社会与法治" tvg-name="山西社会与法治" tvg-logo="https://live.fanmingming.com/tv/山西社会与法治.png" group-title="山西",山西社会与法治
 http://angtv.cn/live/shanxi.php?id=sxshfz
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
+http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+#EXTINF:-1 tvg-id="山西文体生活" tvg-name="山西文体生活" tvg-logo="https://live.fanmingming.com/tv/山西文体生活.png" group-title="山西",山西文体生活
+http://angtv.cn/live/shanxi.php?id=sxwtsh
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="山西",山西影视
 http://angtv.cn/live/shanxi.php?id=sxys
+#EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
+http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="山西黄河" tvg-name="山西黄河" tvg-logo="https://live.fanmingming.com/tv/山西黄河.png" group-title="山西",山西黄河
 http://angtv.cn/live/shanxi.php?id=sxhh
 #EXTINF:-1 tvg-id="大宁综合" tvg-name="大宁综合" tvg-logo="https://live.fanmingming.com/tv/大宁综合.png" group-title="山西",大宁综合
