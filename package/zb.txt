@@ -77,6 +77,13 @@ CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/ind
 新疆卫视,https://stream.freetv.fun/d6840abde0aa2e69f330e183b7121b048d1b6c73114b4cc60203f6e4f1938392.ctv
 兵团卫视,https://stream.freetv.fun/35ff6895215c3bcf756c90eb508190abcd9191c6eb82f6ec3ea974487a2bc96e.m3u8
 广西卫视,https://stream.freetv.fun/27141777d61521d18c54354e37051f86ca2211e15bef7b34909b37b1a59ed358.m3u8
+第一财经,https://stream.freetv.fun/533f951c259e0a0db9189aab022c535bca241b30dbf0d18aca82012de4e8c080.m3u8
+卡酷少儿,https://stream.freetv.fun/2d4fea873addeab52c38baa986ab8a74fedcf26d3b441fbbc138876b51162151.m3u8
+金鹰卡通,https://stream.freetv.fun/1036ffc7bae234af17dd63677a06b1499f18c27d2092d5efccc4c930bb4f027d.m3u8
+快乐垂钓,https://stream.freetv.fun/f664b9bd6c46e9a4c8ec56a31630df4650081fc6f03f2db42810244a044e37a9.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+哈哈炫动,https://stream.freetv.fun/869ff1cabacf4873297b23628ad12d4059e8002e0dde6ebac65ea043654bcbbf.m3u8
+嘉佳卡通,https://stream.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.ctv
 
 
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
@@ -142,6 +149,10 @@ CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/ind
 rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 漠河综合频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
+第一财经,https://stream.freetv.fun/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8
+卡酷少儿,https://stream.freetv.fun/09ed379b072d697a8a9993ea2c80dba1e49603a4eddcede03df8995c7e3142af.ctv
+金鹰卡通,https://stream.freetv.fun/b45dd7de8b220eadb2e16a1e68856cd6a4999022b18745d4dc7e0f0014893c29.m3u8
+快乐垂钓,https://stream.freetv.fun/2c44d3bd5e3f2fcaa1655cac5b825a7e216179de2461432d070041d687913724.m3u8
 
 
 NewTV系列,#genre#
