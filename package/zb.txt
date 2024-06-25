@@ -151,11 +151,12 @@ NewTV系列,#genre#
 健康有约,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 精彩搏击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-CHC动作电影,https://stream.freetv.fun/chcdong-zuo-dian-ying-7.ctv
+CHC动作电影,https://stream.freetv.fun/chcdong-zuo-dian-ying-9.ctv
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 CHC家庭影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 
 
+CHC动作电影,https://stream.freetv.fun/chcdong-zuo-dian-ying-7.ctv
 CHC影迷电影,https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
