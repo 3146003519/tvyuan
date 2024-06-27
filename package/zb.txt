@@ -11,13 +11,13 @@ CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/inde
 CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-13 新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-4K 超高清,https://stream.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 兵器科技,https://stream.freetv.fun/124d0b9105cb3b360af8dc1b5ff20e26f0106b385831c3b451f7ecdcf3403f91.m3u8
 怀旧剧场,https://stream.freetv.fun/93a4b3690fe3044e0d5f2d423c17214f8a6ccc7009313a7aa539c7960fe9dccf.ctv
@@ -29,7 +29,9 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 女性时尚,https://stream.freetv.fun/5aa783bfe212b55351866d78168def7d7be1b7d6bb70365d243c12ee5cbfdb56.m3u8
 风云足球,https://stream.freetv.fun/da3d7a692d9bb8ea6697e9e9b721ff5287321760a06ef0fd9db51af03dca6d75.m3u8
 
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 世界地理,https://stream.freetv.fun/44a3f5077cea2cd705ac75fd8e2efcac0415ebc41e25bdbd9218c13a2be3c919.m3u8
 世界地理,https://stream.freetv.fun/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
 央视台球,https://stream.freetv.fun/ecfc2377bb30a74184e2a189c47ab6f3f3fd872d42408f9ea8d43bdcab1d6125.m3u8
@@ -138,7 +140,7 @@ CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/ind
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
-NewTV系列,#genre#
+数字频道,#genre#
 超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 超级体育,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -176,6 +178,7 @@ CHC家庭影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jbtygqCHCjty
 嘉佳卡通,https://stream.freetv.fun/ce2ac3337ab79048f65c1994ff0049a0783e6db4a26d183b7b5683bc03d38be0.ctv
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 乐游纪实,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
