@@ -2,6 +2,6 @@
 "vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 "drives":[
 {"name":"小雅","server":"http://alist.xiaoya.pro"},
-{"name":"我的网盘","server":"http://bj.frp.one:13148","login":{"username":"ls","password":"0410"}}
+{"name":"alist","server":"http://bj.frp.one:13148","login":{"username":"ls","password":"0410"}}
         ]
 }
