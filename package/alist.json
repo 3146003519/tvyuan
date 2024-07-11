@@ -1,6 +1,5 @@
 {"jar":"https://js.catvod.com/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.jar",
 "vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-"drives":[
+"drives":
 {"name":"alist","server":"http://bj.frp.one:13148","login":{"username":"tv","password":"123456"}}
-        ]
 }
