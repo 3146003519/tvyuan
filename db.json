@@ -69,7 +69,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./package/alist.json","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"}
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./package/alist.json","spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"}
 ],
 "lives":[
 {"name":"直播","type":0,"url":"./package/zb.txt"}]}
