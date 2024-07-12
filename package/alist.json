@@ -1,7 +1,6 @@
 {
 "vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 "drives":[
-{"name":"小雅","server":"http://alist.xiaoya.pro"},
 {"name":"AList","server":"http://bj.frp.one:13148","login":{"username":"tv","password":"123456"}}
         ]
 }
