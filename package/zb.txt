@@ -19,29 +19,10 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-4K 超高清,https://stream.freetv.fun/ce32a55eb347ed4c31cc8242938adc53b38f9ad5746980dd65964b84f1c6d32f.ctv
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
-兵器科技,https://stream.freetv.fun/124d0b9105cb3b360af8dc1b5ff20e26f0106b385831c3b451f7ecdcf3403f91.m3u8
-怀旧剧场,https://stream.freetv.fun/93a4b3690fe3044e0d5f2d423c17214f8a6ccc7009313a7aa539c7960fe9dccf.ctv
-世界地理,https://stream.freetv.fun/fe7c1df1a866f73dc8b30a50b3fb1b432f6ea7610f4e88ae56463a38ce40d3f0.ctv
-央视台球,https://stream.freetv.fun/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-风云剧场,https://stream.freetv.fun/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
-风云音乐,https://stream.freetv.fun/4ba5b6b68de158ad69627ba1002dd2e859a8a1d89688e8adabb9226b4a55d228.m3u8
-第一剧场,https://stream.freetv.fun/282e292b1b83245e016b5d3cc7cc2dbfe6f5f8dffa297b4e2f0f6728f7725c41.ctv
-女性时尚,https://stream.freetv.fun/5aa783bfe212b55351866d78168def7d7be1b7d6bb70365d243c12ee5cbfdb56.m3u8
-风云足球,https://stream.freetv.fun/da3d7a692d9bb8ea6697e9e9b721ff5287321760a06ef0fd9db51af03dca6d75.m3u8
 
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-世界地理,https://stream.freetv.fun/44a3f5077cea2cd705ac75fd8e2efcac0415ebc41e25bdbd9218c13a2be3c919.m3u8
-世界地理,https://stream.freetv.fun/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
-央视台球,https://stream.freetv.fun/ecfc2377bb30a74184e2a189c47ab6f3f3fd872d42408f9ea8d43bdcab1d6125.m3u8
-风云剧场,https://stream.freetv.fun/cctv-feng-yun-ju-chang-1.ctv
-第一剧场,https://stream.freetv.fun/adfa2b7b9d1e95aa7139c3743e92cf15cd0e6192aea5f007650888d28c6a1524.ctv
-第一剧场,https://stream.freetv.fun/9b14bee09da1340186b531bae8d8f6830db5cca9cbb44f25884b2084079044f1.m3u8
-女性时尚,https://stream.freetv.fun/cctvnu-xing-shi-shang-1.m3u8
-风云足球,https://stream.freetv.fun/3eb90753b25b903452a7d468ffcdfb24d72193411ef6aea875a852683a5f6bbf.ctv
-风云足球,https://stream.freetv.fun/ipv6-feng-yun-zu-qiu-2.m3u8
-
 
 
 
