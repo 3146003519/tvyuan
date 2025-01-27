@@ -68,4 +68,4 @@
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json","spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"}
 ],
 "lives":[
-{"name":"直播","type":0,"url":"./package/zb.txt"}]}
+{"name":"直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"}]}
