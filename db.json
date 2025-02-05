@@ -4,7 +4,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 {"key":"豆豆","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{
+ {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -355,19 +355,6 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    }
     },
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json","spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"}
 ],
