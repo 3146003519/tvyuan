@@ -1,8 +1,6 @@
-[
-  {
+{
     "name": "dav",
     "server": "https://xg-2.frp.one:13148/dav",
     "user": "ls",
     "pass": "123456"
-  }
-]
+}
