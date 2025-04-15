@@ -356,7 +356,7 @@
         "from": "4k|auto"
       }
     },
-{"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"}
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json"}
 ],
 "lives":[
 {"name":"直播","type":0,"url":"./package/zb.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"}]}
