@@ -69,7 +69,16 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
-{"key":"Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1}
+{
+  "drives": [
+    {
+      "name": "alist",
+      "server": "https://xg-2.frp.one:13148/dav",
+      "user": "ls",
+      "pass": "123456"
+    }
+  ]
+}
 ],
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
