@@ -81,7 +81,7 @@
 "lives":[
 {"name":"直播","type":0,"url":"./package/test.m3u"}]},
 {
-  "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"
+  "spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar",
   "sites":[
     {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json"}
   ]
