@@ -38,7 +38,7 @@
 {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json","spider":"https://g.3344550.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"}
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":{"./package/alist.json","spider":"https://g.3344550.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"}}
 ],
 "lives":[
 {"name":"直播","type":0,"url":"./package/zb.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"}]}
