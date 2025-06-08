@@ -49,8 +49,7 @@
 "ext":"https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull"},
 {"key":"米搜","name":"🌖┃米搜┃网盘","type":3,"api":"csp_MiSou","ext":"http://127.0.0.1:9978/file/fatcat/kk.txt"},
 {"key":"csp_PanSearch","name":"🚃┃盘搜┃网盘","type":3,"api":"csp_PanSearch","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json","spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"}
-],
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":0,"ext":"./package/alist.json"],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
